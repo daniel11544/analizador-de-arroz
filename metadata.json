@@ -1,0 +1,6 @@
+{
+  "name": "Contador de Arroz",
+  "description": "Una aplicación avanzada para contar y clasificar granos de arroz por tamaño (enteros, partidos y cúmulos) utilizando procesamiento de imágenes en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
